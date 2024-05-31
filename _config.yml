@@ -22,9 +22,9 @@ repository               : "husseinsd1/husseinsd1.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hussein Saad"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "MSc in CS @ ARCO Lab, McMaster University"
+  bio              : "MSc in CS student"
   location         : "Hamilton, Ontario"
   employer         : "McMaster University"
   uri              : # URL
