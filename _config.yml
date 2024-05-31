@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hussein O Saad"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Hussein M Saad"
+name                     : &name "Hussein Saad"
 description              : &description ""
 url                      : https://husseinsd1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "husseinsd1/husseinsd1.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : ""
+  name             : "Hussein Saad"
   pronouns         : # example: "she/her"  
   bio              : "MSc in CS student"
   location         : "Hamilton, Ontario"
