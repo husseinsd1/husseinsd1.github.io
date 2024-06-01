@@ -19,7 +19,7 @@ main:
     url: /blog-posts/ # was year-archive
     
   - title: "CV"
-    url: /cv/
+    url: /files/Hussein_Saad_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
