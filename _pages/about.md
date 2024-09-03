@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About
-Starting Fall 2024, I will be a MSc student at the [Department of Computing and Software](https://www.eng.mcmaster.ca/cas/) at McMaster University, where I'll be working with [Dr. Matt Giamou](https://mattgiamou.ca/) at the [ARCO Lab](https://arcolab.mcmaster.ca/). I completed my BASc in the same department. 
+I'm an MSc student at the [Department of Computing and Software](https://www.eng.mcmaster.ca/cas/) at McMaster University, where I work with [Dr. Matt Giamou](https://mattgiamou.ca/) at the [ARCO Lab](https://arcolab.mcmaster.ca/). I completed my BASc in the same department. 
 
 You can find my CV [here](files/Hussein_Saad_CV.pdf).
 
