@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-OMASTAR: Optimal Magnetic Actuation System Arrangement \\
-Veerash Palanichamy, **Hussein Saad**, Matthew Giamou, Onaizah Onaizah.
+**OMASTAR: Optimal Magnetic Actuation System Arrangement** \\
+Veerash Palanichamy, **Hussein Saad**, Matthew Giamou, Onaizah Onaizah. \\
  *Submitted to ICRA 2025*.
 
 
